@@ -100,7 +100,7 @@ h2 {
 	background:linear-gradient(hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0));
 }
 
-section {
+div#sect {
 	display: flex;
 	flex-direction: column;
 	align-items: start;
